@@ -1,0 +1,55 @@
+
+humanChar.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sgk/leg1
+  rotate: false
+  xy: 105, 318
+  size: 38, 139
+  orig: 38, 139
+  offset: 0, 0
+  index: -1
+sgk/leg2
+  rotate: false
+  xy: 82, 174
+  size: 45, 142
+  orig: 45, 142
+  offset: 0, 0
+  index: -1
+sgk/arm1
+  rotate: false
+  xy: 129, 174
+  size: 36, 101
+  orig: 36, 101
+  offset: 0, 0
+  index: -1
+sgk/arm2
+  rotate: false
+  xy: 145, 277
+  size: 32, 100
+  orig: 32, 100
+  offset: 0, 0
+  index: -1
+sgk/body
+  rotate: false
+  xy: 1, 174
+  size: 79, 199
+  orig: 79, 199
+  offset: 0, 0
+  index: -1
+sgk/head
+  rotate: false
+  xy: 1, 375
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+sgk/hair
+  rotate: false
+  xy: 1, 1
+  size: 253, 171
+  orig: 253, 171
+  offset: 0, 0
+  index: -1

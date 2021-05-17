@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: 8_Gohan_Data
+  m_EditorClassIdentifier: 
+  dataName: 8_Gohan
+  dragonBonesJSON: {fileID: 4900000, guid: 9f0d2ad369b8bfb41a1c08b9909b25f8, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: c1285bee060e9de46893e43b7af79eb0, type: 3}
+    texture: {fileID: 2800000, guid: d58898ba030cfed4a8a051fedef5e4ee, type: 3}
+    material: {fileID: 2100000, guid: 31afcbca536205b4c99b293561e8760e, type: 2}
+    uiMaterial: {fileID: 0}

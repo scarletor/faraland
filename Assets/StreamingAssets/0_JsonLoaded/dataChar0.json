@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Alfred",
+    "index": 11,
+    "str": 21,
+    "agi": 32,
+    "int": 53,
+    "luck": 3,
+    "dam": 3,
+    "def": 3,
+    "crit": 3,
+    "hp": 3,
+    "evade": 3,
+    "accuracy": 3,
+    "baseDam": 30,
+    "baseHP": 100,
+    "items": [
+      {
+        "name": "Legend Sword",
+        "atk": 20,
+        "def": 5,
+        "crit": 50
+      }
+    ]
+  }
+]
